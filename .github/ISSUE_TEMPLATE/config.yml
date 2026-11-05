@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Existing issues
+    url: https://github.com/wtfyls/Food-Unification/issues
+    about: Check whether your bug or mod request has already been reported.
