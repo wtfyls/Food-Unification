@@ -1,0 +1,57 @@
+name: Bug report
+description: Something isn't working as expected? Let us know.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please search existing issues to see if this has already been reported.
+  - type: input
+    id: minecraft-version
+    attributes:
+      label: Minecraft version
+      placeholder: "e.g. 1.20.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: loader
+    attributes:
+      label: Mod loader
+      options:
+        - Forge
+        - NeoForge
+        - Fabric
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: food-unification-version
+    attributes:
+      label: Food Unification version
+      placeholder: "e.g. 1.0.0"
+    validations:
+      required: true
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Relevant mod list and versions
+      description: Include the food/farming mods involved and their versions.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What happened?
+      description: Explain what you expected and what happened instead. Include the recipe or item involved if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Paste a relevant log or add screenshots. Please remove personal information from logs.
+      render: text
+    validations:
+      required: false
