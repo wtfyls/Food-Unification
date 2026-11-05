@@ -1,71 +1,86 @@
-# Food Unification
+<p><img src="https://media.forgecdn.net/attachments/description/null/description_7db4305c-5d6b-45cb-80e8-32be0dd2af73.png" alt="" width="646" height="184"></p>
 
-Food Unification is a compatibility project for Minecraft food, farming, cooking and agriculture mods. The goal is to make their ingredients and recipes work together instead of leaving players with several versions of the same ingredient and recipes that do not connect.
+<h1>Food Unification</h1>
 
-Install it alongside the supported mods and let the integrations handle the recipe unification.
+<p>Have you ever installed a bunch of cooking and farming mods and ended up with three different types of onion, for example? Yeah, that's pretty much what this mod is here to fix.</p>
 
-## Minecraft versions and loaders
+<p>Food Unification brings recipes and ingredients together across different farming, cooking and food mods, so they actually work nicely with each other. No more duplicated ingredients or recipes that don't connect between mods.</p>
 
-This repository is being set up around the first target below. A row marked **In development** is not a released or tested download yet.
+<p>Just install it alongside your favourite food mods and let it handle the compatibility!</p>
 
-| Minecraft version | Mod loader | Status |
-| --- | --- | --- |
-| 1.20.1 | Forge | In development — first target |
-| Other versions | Fabric / Forge / NeoForge | Not currently supported |
+<h3>Minecraft Versions &amp; Loaders</h3>
 
-The supported-version table will be updated when builds are available and tested. Please check the release notes before adding the mod to a pack.
+<table>
+  <thead>
+    <tr>
+      <th>Minecraft Version</th>
+      <th>Forge</th>
+      <th>Fabric</th>
+      <th>NeoForge</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.20.1</td>
+      <td>Planned (first target)</td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
 
-## Compatibility targets
+<p>Other Minecraft versions and loaders are not available yet. This table will be updated when builds are ready and tested.</p>
 
-These are the mods and mod families planned for compatibility work. Integrations are added and tested individually, so the list is not a promise that every recipe in every listed mod is already covered.
+<h3>Compatible Mods</h3>
 
-### Farmer's Delight and addons
+<p><strong>Farmer's Delight &amp; Addons</strong></p>
+<ul>
+  <li>Farmer's Delight</li>
+  <li>Cultural Delights</li>
+  <li>Farmer's Respite</li>
+  <li>Nether's Delight</li>
+  <li>Ocean's Delight</li>
+  <li>Delightful</li>
+  <li>Brewin' and Chewin'</li>
+  <li>Barbeques Delight</li>
+  <li>Starcatcher Delight</li>
+</ul>
 
-- Farmer's Delight
-- Cultural Delights
-- Farmer's Respite
-- Nether's Delight
-- Ocean's Delight
-- Delightful
-- Brewin' and Chewin'
-- Barbeques Delight
-- Starcatcher Delight
+<p><strong>Let's Do Series</strong></p>
+<ul>
+  <li>Farm &amp; Charm</li>
+  <li>Bakery</li>
+  <li>Vinery</li>
+  <li>Meadow</li>
+  <li>Brewery</li>
+  <li>Candlelight</li>
+  <li>Beachparty</li>
+</ul>
 
-### Let's Do series
+<p><strong>Kaleidoscope Series</strong></p>
+<ul>
+  <li>Kaleidoscope Cookery</li>
+  <li>Kaleidoscope Nether</li>
+  <li>Kaleidoscope Chinese Food</li>
+  <li>Kaleidoscope Grilling</li>
+</ul>
 
-- Farm & Charm
-- Bakery
-- Vinery
-- Meadow
-- Brewery
-- Candlelight
-- Beachparty
+<p><strong>Other Mods</strong></p>
+<ul>
+  <li>Create</li>
+  <li>Create: Central Kitchen</li>
+  <li>Spelunkery</li>
+  <li>Ecologics</li>
+  <li>Supplementaries</li>
+</ul>
 
-### Kaleidoscope series
+<h3>Issues &amp; Mod Requests</h3>
 
-- Kaleidoscope Cookery
-- Kaleidoscope Nether
-- Kaleidoscope Chinese Food
-- Kaleidoscope Grilling
+<p>Found a recipe that's not working, or want to see another food or farming mod supported? Open a ticket on GitHub:</p>
+<ul>
+  <li><a href="https://github.com/wtfyls/Food-Unification/issues/new?template=bug_report.yml">Report a bug</a></li>
+  <li><a href="https://github.com/wtfyls/Food-Unification/issues/new?template=mod_compatibility_request.yml">Request support for another mod</a></li>
+  <li><a href="https://github.com/wtfyls/Food-Unification/issues">View existing tickets</a></li>
+</ul>
 
-### Other mods
-
-- Create
-- Create: Central Kitchen
-- Spelunkery
-- Ecologics
-- Supplementaries
-
-## Report a problem or request an integration
-
-Please use the repository's issue forms so reports have the details needed to investigate them.
-
-- [Report a bug](https://github.com/wtfyls/Food-Unification/issues/new?template=bug_report.yml)
-- [Request support for another mod](https://github.com/wtfyls/Food-Unification/issues/new?template=mod_compatibility_request.yml)
-- [Browse existing issues](https://github.com/wtfyls/Food-Unification/issues)
-
-Before opening a request, search the issues to make sure the mod or problem has not already been reported. Include Minecraft version, loader, mod versions and a relevant log or recipe example whenever possible.
-
-## Status
-
-Food Unification is an independent Miso Studio project. It is not affiliated with the authors of the mods listed above.
+<p>Before opening a ticket, check if someone has already reported the same issue or requested the same mod.</p>
