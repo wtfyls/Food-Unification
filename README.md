@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>1.21.1</td>
-      <td>Planned</td>
+      <td>Wont be supported</td>
       <td>Planned</td>
       <td>Planned</td>
     </tr>
