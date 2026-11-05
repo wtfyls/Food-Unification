@@ -22,7 +22,7 @@
 <table>
   <thead><tr><th>Minecraft Version</th><th>Forge</th><th>Fabric</th><th>NeoForge</th></tr></thead>
   <tbody>
-    <tr><td>1.20.1</td><td>Planned</td><td>Planned</td><td>Planned</td></tr>
+    <tr><td>1.20.1</td><td>Planned (first target)</td><td>Planned</td><td>Planned</td></tr>
     <tr><td>1.21.1</td><td>Not planned</td><td>Planned</td><td>Planned</td></tr>
   </tbody>
 </table>
