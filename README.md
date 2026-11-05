@@ -14,25 +14,28 @@
   <thead>
     <tr>
       <th>Minecraft Version</th>
-      <th>Loader</th>
-      <th>Status</th>
+      <th>Forge</th>
+      <th>Fabric</th>
+      <th>NeoForge</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>1.20.1</td>
-      <td>Forge</td>
       <td>Planned (first target)</td>
+      <td>Planned</td>
+      <td>Planned</td>
     </tr>
     <tr>
       <td>1.21.1</td>
-      <td>To be decided</td>
+      <td>Planned</td>
+      <td>Planned</td>
       <td>Planned</td>
     </tr>
   </tbody>
 </table>
 
-<p>These are planned targets, not released builds. Loader support and downloads will be listed here once they are implemented and tested.</p>
+<p>These are planned targets, not released builds. Downloads and supported versions will be listed here once they are implemented and tested.</p>
 
 <h3>Compatible Mods</h3>
 
