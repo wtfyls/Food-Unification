@@ -1,0 +1,57 @@
+name: Request a mod integration
+description: Suggest a food, farming or cooking mod for Food Unification to support.
+title: "[Mod Request]: "
+labels: ["compatibility request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check the README and existing issues first. Requests are suggestions, not a guarantee that an integration will be added.
+  - type: input
+    id: mod-name
+    attributes:
+      label: Mod name
+      placeholder: "Name of the mod"
+    validations:
+      required: true
+  - type: input
+    id: mod-link
+    attributes:
+      label: Mod page
+      description: CurseForge, Modrinth or official project link.
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: minecraft-version
+    attributes:
+      label: Minecraft version
+      placeholder: "e.g. 1.20.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: loader
+    attributes:
+      label: Mod loader
+      options:
+        - Forge
+        - NeoForge
+        - Fabric
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: integration
+    attributes:
+      label: What should be compatible?
+      description: Mention the items, ingredients, tags or recipes you would like connected to other mods.
+      placeholder: "For example, make this mod's rice work in recipes from..."
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Optional details, examples or screenshots.
+    validations:
+      required: false
