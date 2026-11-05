@@ -1,4 +1,25 @@
 <p><img src="https://media.forgecdn.net/attachments/description/null/description_7db4305c-5d6b-45cb-80e8-32be0dd2af73.png" alt="" width="646" height="184"></p>
+<p>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/food-unification/preview">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/curseforgelarge.png" alt="View on CurseForge" height="48">
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/68yhDdFpnx">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/discordlarge.png" alt="Join the Lunchtime Discord" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.patreon.com/cw/Fierolam">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/patreonlarge.png" alt="Support Miso Studio on Patreon" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/lunchbutt/">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/instagramlarge.png" alt="Follow on Instagram" height="48">
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@lunchbutt">
+    <img src="https://raw.githubusercontent.com/wtfyls/Lunchtime-Cozy-Create-Farming/main/assets/tiktoklarge.png" alt="Follow on TikTok" height="48">
+  </a>
+</p>
 
 <h1>Food Unification</h1>
 
